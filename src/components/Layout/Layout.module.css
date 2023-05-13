@@ -85,8 +85,8 @@
 .content{
     display: flex;
     height: 100%;
-    align-items: center;
-    margin: -4rem auto auto;
+    /*align-items: center;*/
+    margin: 4rem auto auto;
 }
 .content>div{
     width: 100%;
